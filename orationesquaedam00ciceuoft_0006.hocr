@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./orationesquaedam00ciceuoft/orationesquaedam00ciceuoft_0006.png"; bbox 0 0 1887 3083; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 724 1945 1725 2569">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 724 1945 1725 2569">
+     <span class='ocr_line' id='line_1_1' title="bbox 724 1945 1725 2569; baseline 0 514"><span class='ocrx_word' id='word_1_1' title='bbox 724 1945 1725 2569; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 618 2718 1378 2790">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 618 2718 1378 2790">
+     <span class='ocr_line' id='line_1_2' title="bbox 618 2718 1378 2790; baseline -0.004 -12"><span class='ocrx_word' id='word_1_2' title='bbox 618 2718 621 2722; x_wconf 58' lang='grc'><em>’</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 645 2742 815 2778; x_wconf 56' lang='lat' dir='ltr'>&amp;cudebat</span> <span class='ocrx_word' id='word_1_4' title='bbox 831 2742 863 2777; x_wconf 82' lang='lat' dir='ltr'>s,</span> <span class='ocrx_word' id='word_1_5' title='bbox 876 2742 1043 2785; x_wconf 67' lang='lat' dir='ltr'>nanum,</span> <span class='ocrx_word' id='word_1_6' title='bbox 1054 2743 1250 2790; x_wconf 72' lang='lat' dir='ltr'>Weybridge,</span> <span class='ocrx_word' id='word_1_7' title='bbox 1261 2743 1378 2789; x_wconf 60' lang='lat' dir='ltr'>surrey.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
